@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="input1hint">Enter your first number</string>
+    <string name="input2hint">Enter your second number</string>
+    <string name="calculate">calculate</string>
+    <string name="reset">reset</string>
+    <string name="zeroAlarm">Divide by Zero not allowed</string>
+    <string name="emptyOperation">Please select an operation</string>
+    <string name="emptyNum">Please enter your number</string>
+</resources>
