@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Simple Calculator</string>
+    <string name="app_name">QixuanChen-SimpleCalculator</string>
     <string name="input1hint">Enter your first number</string>
     <string name="input2hint">Enter your second number</string>
     <string name="calculate">calculate</string>
